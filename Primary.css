@@ -1,0 +1,8 @@
+﻿
+.mainbody{  margin-left: auto;margin-right: auto; width:960px}
+					
+/*	Layout 8	*/				
+.Layout8_1{ width:100%;  background-color:Black;  height:400px; float:left;}						
+.Layout8_2{ width:100%;  background-color:Black; float:left; height:100px; }						
+.Layout8_header{ background-color:Black; width:100%; height:100px;}						
+
